@@ -16,6 +16,12 @@ h1{
     box-shadow: 0px 10px 0px #000;
     border: 2px solid #000;
     width: 75vw;
-    height: 5vh;
+    height: 6vh;
     border-radius: 100px;
+}
+.txt{
+    font-weight: bold;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    font-style: italic;
 }
