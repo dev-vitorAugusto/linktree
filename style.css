@@ -1,5 +1,5 @@
 body{
-    background-color: #D6E6F2;
+    background-color: #d4d7be;
     box-sizing: border-box;
     margin: 0;
 }
@@ -12,9 +12,10 @@ h1{
     font-weight: 500;
     text-align: center;
     font-size: 1rem;
+    color: #fff;
 }
 .btn-opt{
-    background-color: #4A90E2;
+    background-color: #747760;
     box-shadow: 0px 10px 0px #000;
     border: 2px solid #000;
     width: 75vw;
@@ -26,13 +27,15 @@ h1{
     font-size: 1.1rem;
     letter-spacing: 1px;
     font-style: italic;
+    color: #fff;
+    text-align: center;
 }
 
 /* 
 // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
     .btn-opt{
-        background-color: #4A90E2;
+        background-color: #747760;
         box-shadow: 0px 10px 0px #000;
         border: 2px solid #000;
         width: 55vw;
@@ -44,7 +47,7 @@ h1{
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
     .btn-opt{
-        background-color: #4A90E2;
+        background-color: #747760;
         box-shadow: 0px 10px 0px #000;
         border: 2px solid #000;
         width: 95vw;
@@ -56,7 +59,7 @@ h1{
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
     .btn-opt{
-        background-color: #4A90E2;
+        background-color: #747760;
         box-shadow: 0px 10px 0px #000;
         border: 2px solid #000;
         width: 50vw;
